@@ -1,0 +1,14 @@
+# Common
+*.env
+
+# Python-related
+puffer-tracker-backend/__pycache__/
+puffer-tracker-backend/*.py[cod]
+puffer-tracker-backend/.env
+puffer-tracker-backend/venv/
+
+# Node.js / frontend-related (if using Node)
+puffer-tracker-frontend/node_modules/
+puffer-tracker-frontend/build/
+
+
