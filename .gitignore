@@ -7,7 +7,7 @@ puffer-tracker-backend/*.py[cod]
 puffer-tracker-backend/.env
 puffer-tracker-backend/venv/
 
-# Node.js / frontend-related (if using Node)
+# Node.js / frontend-related
 puffer-tracker-frontend/node_modules/
 puffer-tracker-frontend/build/
 
